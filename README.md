@@ -1,6 +1,6 @@
 # Esercizio sui cifrari, Corso di Programmazione Procedurale, Laurea in Informatica, UniPG
-#Nome:
+# Nome:
 
-#Cognome:
+# Cognome:
 
-#Matricola:
+# Matricola:
